@@ -1,1 +1,4 @@
 # gopika
+hello
+hai
+welcome
