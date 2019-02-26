@@ -2,3 +2,5 @@
 hello
 hai
 welcome
+cute
+bubbly
